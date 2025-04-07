@@ -1,4 +1,4 @@
-project/
+project/ \n
 ├── public/
 │   └── vite.svg
 ├── src/

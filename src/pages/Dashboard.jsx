@@ -17,9 +17,6 @@ const Dashboard = () => {
           <h3 className="font-medium mb-2">Your Account Information:</h3>
           <p><strong>Email:</strong> {user?.email}</p>
         </div>
-        <p>
-          Here you would typically see your personal data, settings, and other private information.
-        </p>
       </div>
     </div>
   );

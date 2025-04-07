@@ -1,5 +1,4 @@
 import { takeLatest, put, call } from 'redux-saga/effects';
-import api from '../../api/axios';
 import { loginRequest, loginSuccess, loginFailure } from '../slices/authSlice';
 
 // Mock user data for authentication (as specified in the assignment)
